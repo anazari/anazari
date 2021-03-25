@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in working on cool projects using React and React Native
+- 👀 I’m interested in building projects using React and React Native
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on React Native projects
 - 📫 DM me on Twitter @anazarii
