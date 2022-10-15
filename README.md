@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in building projects using React and React Native
-- 🌱 I’m currently learning Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on React Native projects
+- 👀 I’m interested in building projects using React/Svelte, and Ruby on Rails (RoR)
+- 🌱 I’m currently learning RoR and Svelte
+- 💞️ I’m looking to collaborate and contribute to RoR projects
 - 📫 DM me on Twitter @anazarii
 
 <!---
