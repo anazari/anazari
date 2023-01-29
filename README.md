@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in building projects using React/Svelte, and Ruby on Rails (RoR)
-- 🌱 I’m currently learning RoR and Svelte
+- 🌱 I’m currently studying CS @ Georgia Tech
 - 💞️ I’m looking to collaborate and contribute to RoR projects
 - 📫 DM me on Twitter @anazarii
 
